@@ -1,24 +1,24 @@
 # Ansible Configuration Automation Project
 
-This repository contains a documented Ansible automation project implemented on AWS EC2.
+This repository contains a documented Ansible configuration automation project implemented on AWS EC2 infrastructure.
 
 ## Project Overview
-The project demonstrates configuration automation using Ansible.
+The project demonstrates real-world configuration automation using Ansible playbooks and roles across multiple EC2 instances.
 
 ### L1 – Java Maven Build Server
-Automated installation of Java and Maven using Ansible playbook.
+Automated installation and configuration of Java and Maven using an Ansible playbook.
 
 ### L2 – Docker Automation
-Automated Docker installation and application container deployment.
+Automated Docker installation and deployment of a Docker-based application container using Ansible.
 
 ### L3 – Nginx Role Automation
-Implemented Ansible role with tasks and handlers for Nginx service management.
+Implemented an Ansible role with tasks and handlers to install and manage the Nginx service.
 
-## Tools Used
+## Tools & Technologies Used
 - Ansible
 - AWS EC2
 - Docker
 - Linux (Ubuntu)
 
 ## Documentation
-Complete steps and screenshots are available in the attached PDF.
+Complete implementation steps, commands, and screenshots are provided in the attached PDF document.
